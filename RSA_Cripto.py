@@ -1,7 +1,7 @@
 from ast import Return
 import random
 
-
+#Yuri linha 5 até 31
 def ValidaPrimo(P):
     for i in range(1, P):
         if (i != 1 and i != P) :
@@ -28,6 +28,8 @@ N = P * Q
 
 # Calculo de Z
 Z = (P-1) * (Q - 1)
+
+# Noah linha 34 até 72
 
 # Calculo D
 
@@ -69,6 +71,7 @@ fileR = open('texto.txt', 'r')
 # Lendo o Conteutdo
 fileTXT = fileR.read()
 
+# Caio linha 75 até 101 
 # Criptpgrafia
 
 txtCriptografado = ''
