@@ -1,3 +1,5 @@
+# Luiz linha 3 até 28
+
 #Descriptografa arquivo
 arquivoCriptografado = open('MensagemCriptografada.txt', 'r')
 fileTXT = arquivoCriptografado.read()
